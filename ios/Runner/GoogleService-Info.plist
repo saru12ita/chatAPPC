@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>886189315502-t2dpeq29jbn75ggpun21t2h33kpr32vv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886189315502-t2dpeq29jbn75ggpun21t2h33kpr32vv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>886189315502-qs0d61dcj8f72a90i0ljseoa4n9fdeem.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8F_quwhDPOZaE8FzY7T38s52zp3DPUms</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886189315502</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chattingApp</string>
+	<key>PROJECT_ID</key>
+	<string>dexkorchatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dexkorchatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886189315502:ios:cdfc22085769f8750b643f</string>
+</dict>
+</plist>

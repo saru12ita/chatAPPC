@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "886189315502",
+    "project_id": "dexkorchatapp",
+    "storage_bucket": "dexkorchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886189315502:android:84903edf42894ea70b643f",
+        "android_client_info": {
+          "package_name": "com.example.dexkorchatapp"  
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886189315502-qs0d61dcj8f72a90i0ljseoa4n9fdeem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dexkorchatapp",
+            "certificate_hash": "6ff00beae08cc576c8662461e42d8703a8efc284"
+          }
+        },
+        {
+          "client_id": "886189315502-17bglc288cumh3qdp9857cnpcl3i5e22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKlODLdakNwJSnv5o4Yx5VmSRvFFc6q6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886189315502-17bglc288cumh3qdp9857cnpcl3i5e22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886189315502-i33n8b9dbt3ppneni83gu9fqbloth18t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pcosApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
